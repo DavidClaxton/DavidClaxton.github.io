@@ -16,15 +16,14 @@ h1{
 	font-family: Impact;
 	color: #336600;
 }
-#right{
+.right{
 	background-color:#66CCFF;
-	float:right;
 	position: absolute;
 	right:0px;
 	bottom:0px;
-	top:75px;
-	left:150px;
-	clear: both;
+	top:90px;
+	left:140px;
+	text-align:center;
 }
 .left{
 	background-color:#E6E6E6;
